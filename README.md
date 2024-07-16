@@ -22,7 +22,7 @@ La **Food and Agriculture Organization of the United Nations (FAO)** est l'un de
 
 ## 📦 Livrable
 
-   - Moreno_Bastien_1_notebook_022023.ipynb : Notebook contenant l'ensemble des analyses et résultats demandés.
+   - `Moreno_Bastien_1_notebook_022023.ipynb` : Notebook contenant l'ensemble des analyses et résultats demandés.
 
 ## 📂 Structure du Repository
 
